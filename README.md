@@ -7,9 +7,8 @@ MAIN PROJECT FILE:
 classifierGUI.m --> GUI for training and testing the neural network 
 for DR gradation
 
-NOTE: The folder .../for_redistribution contains the installer for 
-the standalone version of this GUI application. Follow the link to 
-get the installer: 
+NOTE: Follow the link to get the installer for the standalone 
+version of this GUI application: 
 https://drive.google.com/open?id=1Fl-nm_pCb_t4gyzco-IfSd5ktkc74Q2X
 
 Run installer to install R2017a run-time environment. If unable to 
