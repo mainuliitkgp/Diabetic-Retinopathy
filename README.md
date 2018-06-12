@@ -8,8 +8,7 @@ classifierGUI.m --> GUI for training and testing the neural network
 for DR gradation
 
 NOTE: Follow the link to get the installer for the standalone 
-version of this GUI application: 
-https://drive.google.com/open?id=1Fl-nm_pCb_t4gyzco-IfSd5ktkc74Q2X
+version of this GUI application: https://drive.google.com/open?id=1Fl-nm_pCb_t4gyzco-IfSd5ktkc74Q2X
 
 Run installer to install R2017a run-time environment. If unable to 
 correctly use the standalone application, run the GUI using 
