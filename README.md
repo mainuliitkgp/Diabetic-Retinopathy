@@ -57,5 +57,22 @@ forest classifier
 
 *********************************************************************
 *********************************************************************
+ADDITIONAL FILES FOR Fuzzy Support Vector Machine CLASSIFIER:
+1) ftsvmtrain.m --> Trains a fuzzy support vector machine for 
+DR gradation
+2) ftsvmclass.m --> Tests a fuzzy support vector machine for 
+DR gradation
+3) fuzzy.m --> Compute fuzzy membership
+4) rbf_kernel.m --> Radial basis function kernel for SVM functions
+5) ftsvmplot.m --> Visualizing
+6) L1CD.m --> Dual  coordinate descent  for the ftsvm
+
+DATA FILES USED:
+1) feat.mat --> Training set.
+2) lbl.mat --> Targets (in correct format) for training the fuzzy 
+support vector machine classifier
+
+*********************************************************************
+*********************************************************************
 TO DOWNLOAD IMAGE DATABASE PLEASE VISIT AND READ THE INFORMATION
 PROVIDED AT http://www.adcis.net/en/Download-Third-Party/Messidor.html
